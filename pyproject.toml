@@ -1,8 +1,0 @@
-[project]
-name = "retro"
-version = "0.1.0"
-requires-python = ">=3.14"
-dependencies = [
-    "gym>=0.26.2",
-    "pyglet>=2.1.16",
-]
